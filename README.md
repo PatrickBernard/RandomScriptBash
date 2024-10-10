@@ -12,6 +12,6 @@ Différent pense-bete et autre commande utile en bash
 
 - un petit script pour déplacer un lxc d'une machine vers un proxmox
 
-## AddFirmware - Obsolete depuis Debian 12
+## update-initrd-firmware - Obsolete depuis Debian 12
 
 - Ajouter les firmwares non-free a initrd
