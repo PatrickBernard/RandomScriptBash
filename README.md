@@ -5,8 +5,8 @@ Différent pense-bete et autre commande utile en bash
 ## easy-lxc
 
 - Script de Création/Gestion de LXC
-- Peu interessant depuis l'évolution des différentes version
-- code a nettoyer
+- Peu interessant depuis l'évolution des différentes version / incus / LXD
+- code à nettoyer
 
 ## LXC to CT proxmox
 
@@ -14,4 +14,4 @@ Différent pense-bete et autre commande utile en bash
 
 ## update-initrd-firmware - Obsolete depuis Debian 12
 
-- Ajouter les firmwares non-free a initrd
+- Ajouter les firmwares non-free à initrd
